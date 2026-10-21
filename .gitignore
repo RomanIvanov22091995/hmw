@@ -1,0 +1,33 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Large data files
+*.h5
+*.hdf5
+*.pkl
+*.npy
+
+# Generated output / GIFs
+*.gif
+*.mp4
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp / scratch
+*.log
+*.tmp
